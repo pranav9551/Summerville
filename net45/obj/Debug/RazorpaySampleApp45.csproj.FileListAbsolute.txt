@@ -1,0 +1,11 @@
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\RazorpaySampleApp.dll.config
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\RazorpaySampleApp.dll
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\RazorpaySampleApp.pdb
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\Newtonsoft.Json.dll
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\Razorpay.dll
+S:\payment\razorpay-dotnet-testapp-master\net45\bin\Newtonsoft.Json.xml
+S:\payment\razorpay-dotnet-testapp-master\net45\obj\Debug\RazorpaySampleApp45.csproj.AssemblyReference.cache
+S:\payment\razorpay-dotnet-testapp-master\net45\obj\Debug\RazorpaySampleApp45.csproj.CoreCompileInputs.cache
+S:\payment\razorpay-dotnet-testapp-master\net45\obj\Debug\RazorpaySampleApp45.csproj.CopyComplete
+S:\payment\razorpay-dotnet-testapp-master\net45\obj\Debug\RazorpaySampleApp.dll
+S:\payment\razorpay-dotnet-testapp-master\net45\obj\Debug\RazorpaySampleApp.pdb
